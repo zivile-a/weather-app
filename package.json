@@ -33,5 +33,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[Check out the demo version!](https://weatherly-zivile-a.netlify.app/)",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivile-a/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zivile-a/weather-app/issues"
+  },
+  "homepage": ""
 }
